@@ -78,5 +78,7 @@
     <qresource prefix="/translations">
         <file alias="ArchMaker_de.ts">translations/ArchMaker_de.ts</file>
         <file alias="ArchMaker_de.qm">translations/ArchMaker_de.qm</file>
+        <file alias="ArchMaker_de.ts">translations/ArchMaker_pt-BR.ts</file>
+        <file alias="ArchMaker_de.qm">translations/ArchMaker_pt-BR.qm</file>    
     </qresource>
 </RCC>

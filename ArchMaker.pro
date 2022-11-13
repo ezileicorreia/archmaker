@@ -56,4 +56,5 @@ unix:!macx: LIBS += -lalpm
 
 # TRANSLATION
 
-TRANSLATIONS += translations/ArchMaker_de.ts
+TRANSLATIONS += translations/ArchMaker_de.ts \
+    translations/ArchMaker_pt-BR.ts
